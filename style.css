@@ -4,7 +4,7 @@ family=Roboto:wght@300;400&display=swap');
 *{
     box-sizing: border-box;
     margin: 0;
-    padding: 0;
+    padding: 0
 }
 
 body{
@@ -79,7 +79,7 @@ p {
 
 .bg2{
     background: url('./IMG/dog2.jpg');
-    color: #321;
+    color: #321
 }
 .shadowbox {
     width: 15em;
